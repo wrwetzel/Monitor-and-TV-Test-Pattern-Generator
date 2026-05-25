@@ -1,0 +1,15 @@
+,*
+.es1
+.es2
+.ec1
+.ek1
+*.bak
+__pycache__/
+.ruff_cache/
+Comm/
+Development/
+Hold/
+Output/
+index.html
+Makefile
+
