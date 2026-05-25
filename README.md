@@ -44,9 +44,9 @@ will not be realized.
 ## Usage
 
 *mk-patterns.py* generates one or more families of image files of format
-determined by an internal list or given by the `-x` and `-y` options.  
-See *Generated Files* below for information about the location and naming
-of generated files.
+determined by an internal list or given by the `-x` and `-y` options.  See
+*Generated Files* below for information about the location and naming of
+generated files.
 
 
 ```
