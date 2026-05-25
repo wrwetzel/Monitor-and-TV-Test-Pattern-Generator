@@ -1,4 +1,4 @@
-# Test Pattern Generator
+# Monitor / TV Test Pattern Generator
 
 The `mk-patterns.py` program generates images files containing test patterns (currently 206)
 for assessing the performance of computer monitors, televisions, and other display devices.
@@ -44,11 +44,9 @@ will not be realized.
 ## Usage
 
 *mk-patterns.py* generates one or more families of image files of format
-determined by an internal list or given by the `-x` and `-y` options.  The
-image files are written in directories named for the family.  Those
-directories are located in output_dir, default `~/Output`, i.e. in the
-users home directory.  The output file names consist of a prefix formed
-from the family name and shape and an image-specific identifier.
+determined by an internal list or given by the `-x` and `-y` options.  
+See *Generated Files* below for information about the location and naming
+of generated files.
 
 
 ```
